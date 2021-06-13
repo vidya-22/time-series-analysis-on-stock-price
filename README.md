@@ -18,7 +18,9 @@ Apart from statistical models there are various Machine Learning  Models which s
 
 The most prominent technique in dealing with time series analysis  involves the use of Machine Learning. The advantage of forecasting  the stock price is it helps you to invest wisely and aids in making  better profits.​
 
-===============================================================================================================================================================================![Screenshot (1638)](https://user-images.githubusercontent.com/56502606/121807360-6c94e480-cc71-11eb-8c39-341927b8fcc6.png)
+===============================================================================================================================================================================
+
+![Screenshot (1638)](https://user-images.githubusercontent.com/56502606/121807360-6c94e480-cc71-11eb-8c39-341927b8fcc6.png)
 ![Screenshot (1639)](https://user-images.githubusercontent.com/56502606/121807362-6dc61180-cc71-11eb-97e5-a1c25063c81a.png)
 ![Screenshot (1640)](https://user-images.githubusercontent.com/56502606/121807363-6e5ea800-cc71-11eb-8395-3cab53bdf025.png)
 ![Screenshot (1641)](https://user-images.githubusercontent.com/56502606/121807366-6f8fd500-cc71-11eb-89f9-de84c5a68984.png)
@@ -43,6 +45,7 @@ Step 6: Predicting values on test set. ​
 Step 7: Visualizing the result.​
 
 ============================================================================================================================================================================
+
 RANDOM FOREST REGRESSION MODEL​
 
 Random forest algorithm approach/steps:​
@@ -56,4 +59,5 @@ Choose the number of trees you want to build and repeat step 1 and 2.​
 For a new data point, make each one of your tree to predict the value of Y(target) for the data point, and assign the new data point the average across all of the predicted Y values. ​
   
 =============================================================================================================================================================================
+
 It is observed that the Random Forest Regressor outperformed the Decision Tree Regressor due to the overfitting nature of decision tree on training data.
