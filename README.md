@@ -55,3 +55,5 @@ Choose the number of trees you want to build and repeat step 1 and 2.​
 
 For a new data point, make each one of your tree to predict the value of Y(target) for the data point, and assign the new data point the average across all of the predicted Y values. ​
   
+=============================================================================================================================================================================
+It is observed that the Random Forest Regressor outperformed the Decision Tree Regressor due to the overfitting nature of decision tree on training data.
